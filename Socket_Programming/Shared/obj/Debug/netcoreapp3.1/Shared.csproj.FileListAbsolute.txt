@@ -1,0 +1,9 @@
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\bin\Debug\netcoreapp3.1\Shared.deps.json
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\bin\Debug\netcoreapp3.1\Shared.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\bin\Debug\netcoreapp3.1\Shared.pdb
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.AssemblyReference.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfoInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.AssemblyInfo.cs
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.csproj.CoreCompileInputs.cache
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.dll
+C:\Users\vikvi\Desktop\ProjectsVisualStudio\mine\Socket_Programming\Shared\obj\Debug\netcoreapp3.1\Shared.pdb
