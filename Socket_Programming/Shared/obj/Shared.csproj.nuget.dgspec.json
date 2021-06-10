@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj": {}
+    "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj": {
+    "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj",
+        "projectPath": "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\vikvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\obj\\",
+        "outputPath": "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

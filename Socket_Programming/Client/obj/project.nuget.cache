@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sPXOVjyMTthfMOCo/f8SAtyiBRqqSwVKJNuYj3zQofV7Po+mAbDGeCVYQFakHIFgC8saTZkrXs7KLjia45ybVg==",
+  "dgSpecHash": "zkXYHUp3kYxNaFYyRTEvhBc4sHyH4WQ+JcPz39K47rkGvf037Ls9A7VVVGpwvG8fjNlIdKiPSW40SNrFu4YvQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vikvi\\Desktop\\ProjectsVisualStudio\\mine\\Socket_Programming\\Client\\Client.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\code\\ProjectsVisualStudio\\mine\\Socket_Programming\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikvi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
