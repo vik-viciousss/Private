@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.exe
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.deps.json
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.runtimeconfig.json
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.dll
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\bin\Debug\netcoreapp3.1\Labyrinth_All_Paths.pdb
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.dll
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.pdb
+D:\code\ProjectsVisualStudio\mine\Recursion.All_Paths\Labyrinth_All_Paths\Labyrinth_All_Paths\obj\Debug\netcoreapp3.1\Labyrinth_All_Paths.genruntimeconfig.cache

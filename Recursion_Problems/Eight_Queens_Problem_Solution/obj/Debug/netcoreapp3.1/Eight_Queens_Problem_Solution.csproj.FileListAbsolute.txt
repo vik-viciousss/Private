@@ -1,0 +1,13 @@
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.exe
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.deps.json
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.runtimeconfig.json
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.runtimeconfig.dev.json
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.dll
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\bin\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.pdb
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.csproj.AssemblyReference.cache
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.AssemblyInfoInputs.cache
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.AssemblyInfo.cs
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.csproj.CoreCompileInputs.cache
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.dll
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.pdb
+D:\code\ProjectsVisualStudio\mine\Recursion_Problems\Eight_Queens_Problem_Solution\obj\Debug\netcoreapp3.1\Eight_Queens_Problem_Solution.genruntimeconfig.cache

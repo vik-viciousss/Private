@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labyrinth_All_Paths", "Labyrinth_All_Paths\Labyrinth_All_Paths.csproj", "{373C87E0-9F31-490D-80C4-6AAA6F20BCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eight_Queens_Problem_Solution", "Eight_Queens_Problem_Solution\Eight_Queens_Problem_Solution.csproj", "{D74C9234-DF57-4B97-860E-B31D98685B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{373C87E0-9F31-490D-80C4-6AAA6F20BCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{373C87E0-9F31-490D-80C4-6AAA6F20BCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{373C87E0-9F31-490D-80C4-6AAA6F20BCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{373C87E0-9F31-490D-80C4-6AAA6F20BCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D74C9234-DF57-4B97-860E-B31D98685B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74C9234-DF57-4B97-860E-B31D98685B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74C9234-DF57-4B97-860E-B31D98685B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74C9234-DF57-4B97-860E-B31D98685B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE8E242-D3EB-4769-9B74-E9230AF4C28E}
+	EndGlobalSection
+EndGlobal
